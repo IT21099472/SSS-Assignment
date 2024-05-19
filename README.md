@@ -1,6 +1,6 @@
 # Secure Web-Based Electronic Voting System - Group Project
 
-Welcome to our **Secure Web-Based Electronic Voting System** repository! This project is a collaborative effort by **O.T.M.G. Al balushi** and **K.A.C.T. Jayasinghe**.
+Welcome to our **Secure Web-Based Electronic Voting System** repository! This project is a collaborative effort by **O.T.M.G. Al balushi - IT21099472** and **K.A.C.T. Jayasinghe - IT21146442**.
 
 Feel free to reach out to us for any inquiries or assistance:
 
@@ -18,5 +18,3 @@ To get started with the project, follow these simple steps:
    **Testing User Credentials:**  
    - Email: sss@sliit.lk  
    - Password: SSs123
-
-Happy voting! 🗳️🎉
